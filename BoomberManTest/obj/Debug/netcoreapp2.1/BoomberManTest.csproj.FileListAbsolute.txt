@@ -1,0 +1,4 @@
+A:\C# Prog'\Boomberman\BoomberManTest\obj\Debug\netcoreapp2.1\BoomberManTest.csprojAssemblyReference.cache
+A:\C# Prog'\Boomberman\BoomberManTest\obj\Debug\netcoreapp2.1\BoomberManTest.csproj.CoreCompileInputs.cache
+A:\C# Prog'\Boomberman\BoomberManTest\obj\Debug\netcoreapp2.1\BoomberManTest.AssemblyInfoInputs.cache
+A:\C# Prog'\Boomberman\BoomberManTest\obj\Debug\netcoreapp2.1\BoomberManTest.AssemblyInfo.cs

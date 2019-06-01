@@ -1,0 +1,89 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\C# Prog'\\Boomberman\\BoomberManTest\\BoomberManTest.csproj": {}
+  },
+  "projects": {
+    "E:\\C# Prog'\\Boomberman\\BoomberManTest\\BoomberManTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\C# Prog'\\Boomberman\\BoomberManTest\\BoomberManTest.csproj",
+        "projectName": "BoomberManTest",
+        "projectPath": "E:\\C# Prog'\\Boomberman\\BoomberManTest\\BoomberManTest.csproj",
+        "packagesPath": "C:\\Users\\blurr\\.nuget\\packages\\",
+        "outputPath": "E:\\C# Prog'\\Boomberman\\BoomberManTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\blurr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "E:\\C# Prog'\\Boomberman\\Boomberman\\Boomberman.csproj": {
+                "projectPath": "E:\\C# Prog'\\Boomberman\\Boomberman\\Boomberman.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.3.2, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.3.2, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "E:\\C# Prog'\\Boomberman\\Boomberman\\Boomberman.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\C# Prog'\\Boomberman\\Boomberman\\Boomberman.csproj",
+        "projectName": "Boomberman",
+        "projectPath": "E:\\C# Prog'\\Boomberman\\Boomberman\\Boomberman.csproj"
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    }
+  }
+}
